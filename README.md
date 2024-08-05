@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Gatsby + Netlify
 - 💞️ I’m looking to collaborate on your docs!
 - 📫 How to reach me:
-  - linda.b.robledo@gmail.com
   - [lindarobledo.com](http://www.lindarobledo.com)
 
 

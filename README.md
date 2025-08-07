@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lrobledo
-- 👀 I’m interested in API documentation and automation
-- 🌱 I’m currently learning Docusaurus i18n
-- 💞️ I’m looking to collaborate on your docs!
+- 👋 Hi, I’m Linda
+- 👀 I’m interested in grammar, translation, and the evolution of language
+- 🌱 I’m currently learning Italian
+- 💞️ I’m looking to collaborate on your REST API documentation
 - 📫 How to reach me:
   - [lindarobledo.com](http://www.lindarobledo.com)
 
